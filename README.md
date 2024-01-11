@@ -2,7 +2,7 @@
 
 pseudocoid
 
-EXERCICI 1
+EXERCICI 1  
 void decimalBinari(int decimal){  
     while(decimal/2!=0){  
         int binari=decimal%2;  
